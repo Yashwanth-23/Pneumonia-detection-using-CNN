@@ -6,3 +6,5 @@ Chest X-rays are used for detecting the Pneumonia infection and to locate the in
 Dataset used : [here.](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
 
 Dataset with usability 8.8 : [here.](https://www.kaggle.com/paulti/chest-xray-images)
+
+Colab Link can be found [here.](https://colab.research.google.com/drive/1fmcryIWDjmUZKOm04yMIbxgph5SQFdF0#scrollTo=qsUBmg6OqfCF)
