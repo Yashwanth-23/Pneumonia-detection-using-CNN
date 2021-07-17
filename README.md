@@ -10,7 +10,7 @@ Chest X-rays are used for detecting the Pneumonia infection and to locate the in
 
 Here you can download the [saved model.](https://github.com/Yashwanth-23/Pneumonia-detection-using-CNN/raw/main/trained.h5) 
 
-You can use the saved model for predicting. Refer the [colab notebook.](https://colab.research.google.com/drive/1fmcryIWDjmUZKOm04yMIbxgph5SQFdF0#scrollTo=qsUBmg6OqfCF)
+You can use the saved model for predicting. Refer the [colab notebook.](https://colab.research.google.com/drive/1fmcryIWDjmUZKOm04yMIbxgph5SQFdF0#scrollTo=6sL6nUMvqBWQ)
 
 Dataset used : [here.](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
 
