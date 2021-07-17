@@ -18,6 +18,8 @@ Dataset with usability 8.8 : [here.](https://www.kaggle.com/paulti/chest-xray-im
 
 All the required libraries, dataset link are also mentioned in the [Colab notebook.](https://colab.research.google.com/drive/1fmcryIWDjmUZKOm04yMIbxgph5SQFdF0#scrollTo=qsUBmg6OqfCF)
 
+👉 [<button>Reference</button>](https://link.springer.com/article/10.1007/s12652-021-03075-2)
+
 Hope this helps🙂.
 
 Thank you..
